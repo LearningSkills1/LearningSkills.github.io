@@ -7,11 +7,11 @@
 
 border: none;
 background-color: black;
-color: #61122F;
+color: white;
 }
 body{
-	background-color: #61122F;
-	color: white;
+	background-color: white;
+	color: black;
 }
 .glyphicon{
 	font-size: 30px;
