@@ -5,8 +5,8 @@
 }
 .navbar{
 
-border: none;
-background-color: grey;
+border: 1px;
+background-color: white;
 color: white;
 }
 body{
